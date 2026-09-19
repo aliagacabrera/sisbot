@@ -2,9 +2,15 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <meta http-equiv="refresh" content="0; url=https://script.google.com/macros/s/AKfycbz0GVwCUqXXksAgRTOHzCEHRWbJNmJt4ZivvfU4iGdwykn4sC1R92ii23JLIVdpMZCK/exec">
   <title>SISBOT</title>
+
+  <script>
+    window.location.replace(
+      "https://script.google.com/macros/s/AKfycbz0GVwCUqXXksAgRTOHzCEHRWbJNmJt4ZivvfU4iGdwykn4sC1R92ii23JLIVdpMZCK/exec"
+    );
+  </script>
 </head>
 <body>
+  Redirigiendo a SISBOT...
 </body>
 </html>
